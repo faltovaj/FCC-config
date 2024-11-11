@@ -1,4 +1,4 @@
-ddsim --compactFile k4geo/FCCee/CLD/compact/CLD_o4_v05/CLD_o4_v05.xml \
+ddsim --compactFile $K4GEO/FCCee/CLD/compact/CLD_o4_v05/CLD_o4_v05.xml \
       --enableGun \
       --gun.distribution uniform \
       --gun.energy "10*GeV" \

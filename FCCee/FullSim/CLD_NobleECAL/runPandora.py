@@ -801,7 +801,7 @@ MyDDMarlinPandora["10"].Parameters = {
                                      "NOuterSamplingLayers": ["3"],
                                      "OutputEnergyCorrectionPoints": [],
                                      "PFOCollectionName": ["PandoraPFOs"],
-                                     "PandoraSettingsXmlFile": [os.path.join(os.getcwd(), "PandoraSettings/PandoraSettingsDefault.xml")],
+                                     "PandoraSettingsXmlFile": [os.path.join(os.getcwd(), "PandoraSettingsDefault.xml")],
                                      "ProngVertexCollections": ["ProngVertices"],
                                      "ReachesECalBarrelTrackerOuterDistance": ["-100"],
                                      "ReachesECalBarrelTrackerZMaxDistance": ["-50"],
