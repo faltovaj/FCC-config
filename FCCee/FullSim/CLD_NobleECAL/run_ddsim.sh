@@ -1,0 +1,11 @@
+ddsim --compactFile k4geo/FCCee/CLD/compact/CLD_o4_v05/CLD_o4_v05.xml \
+      --enableGun \
+      --gun.distribution uniform \
+      --gun.energy "10*GeV" \
+      --gun.particle gamma \
+      --numberOfEvents 100 \
+      --gun.phiMin 1.0472 \
+      --gun.phiMax 2.0944 \
+      --gun.thetaMin 1.55 \
+      --gun.thetaMax 1.58 \
+      --outputFile CLD_NobleECAL_sim.root
