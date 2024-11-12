@@ -3,7 +3,7 @@ ddsim --compactFile $K4GEO/FCCee/CLD/compact/CLD_o4_v05/CLD_o4_v05.xml \
       --gun.distribution uniform \
       --gun.energy "10*GeV" \
       --gun.particle gamma \
-      --numberOfEvents 100 \
+      --numberOfEvents 10 \
       --gun.phiMin 1.0472 \
       --gun.phiMax 2.0944 \
       --gun.thetaMin 1.55 \
